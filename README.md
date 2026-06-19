@@ -1,6 +1,6 @@
 # Financial Performance Dashboard
 
-![Dashboard Preview](dashboard_preview.jpeg)
+![Dashboard Preview](Dashboard_Preview.jpeg)
 
 ## Overview
 
@@ -37,6 +37,6 @@ This project analyzes company financial performance using Microsoft Excel. The d
 
 ## Files Included
 
-- Financial_Performance_Dashboard.xlsx
-- Financial_Performance_Dashboard.pdf
-- dashboard_preview.jpeg
+- Financial_Dashboard_Project.xlsx
+- Financial_Dashboard_Project.pdf
+- Dashboard_Preview.jpeg
